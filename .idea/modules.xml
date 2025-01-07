@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/growth-learning.iml" filepath="$PROJECT_DIR$/.idea/growth-learning.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-ai/spring-ai.iml" filepath="$PROJECT_DIR$/spring-ai/spring-ai.iml" />
     </modules>
   </component>
 </project>
