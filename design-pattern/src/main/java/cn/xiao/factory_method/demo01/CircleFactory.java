@@ -1,4 +1,4 @@
-package cn.xiao.factory_method;
+package cn.xiao.factory_method.demo01;
 
 public class CircleFactory extends ShapeFactory{
     @Override
