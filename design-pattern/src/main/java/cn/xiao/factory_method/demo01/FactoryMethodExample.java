@@ -1,4 +1,4 @@
-package cn.xiao.factory_method;
+package cn.xiao.factory_method.demo01;
 
 public class FactoryMethodExample {
     public static void main(String[] args) {
