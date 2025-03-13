@@ -1,4 +1,4 @@
-package cn.xiao.spring.util;
+package cn.xiao.spring;
 
 import cn.xiao.spring.pojo.PropertyValue;
 

@@ -4,7 +4,7 @@ import cn.xiao.spring.pojo.BeanDefinition;
 import cn.xiao.spring.pojo.PropertyValue;
 import cn.xiao.spring.service.BeanDefinitionReader;
 import cn.xiao.spring.service.BeanDefinitionRegistry;
-import cn.xiao.spring.util.MutablePropertyValues;
+import cn.xiao.spring.MutablePropertyValues;
 import org.dom4j.Document;
 import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
