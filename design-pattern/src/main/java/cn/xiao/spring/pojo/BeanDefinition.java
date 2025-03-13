@@ -1,6 +1,6 @@
 package cn.xiao.spring.pojo;
 
-import cn.xiao.spring.util.MutablePropertyValues;
+import cn.xiao.spring.MutablePropertyValues;
 
 public class BeanDefinition {
     private String id;
